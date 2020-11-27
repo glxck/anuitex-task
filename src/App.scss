@@ -1,0 +1,23 @@
+.App {
+  margin: 300px auto 0 auto;
+  width: 500px;
+  height: 150px;
+  background-color: #D8D8D8;
+
+
+  .cardNumber {
+    margin: 40px 0 0 20px;
+    width: 85%;
+    outline: none;
+  }
+  .cardDate {
+    width: 10%;
+    margin: 20px 0 0 20px;
+    outline: none;
+  }
+
+  .cardCVV {
+    margin-left: 20px;
+    outline: none;
+  }
+}
